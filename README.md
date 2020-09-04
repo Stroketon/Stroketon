@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 i'm a retarded developer who likes to contribute stuff but barely in the slightest :trololo:
 
 <!--
 **Stroketon/Stroketon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
