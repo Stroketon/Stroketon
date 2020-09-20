@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stroketon</h1>
-<h3 align="center">I'm a backend and frontend developer which i'm doing it for 2 years now.</h3>
+<h3 align="center">I'm a backend and frontend developer which I have been doing for 2 years.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stroketon" alt="stroketon" /> </p>
 
