@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stroketon</h1>
-<h3 align="center">A retarded develper</h3>
+<h3 align="center">A retarded developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stroketon" alt="stroketon" /> </p>
 
