@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Stroketon</h1>
-<h3 align="center">A backend and frontend developer which has been doing for 2 years.</h3>
+<h3 align="center">a backstabber who has been doing it since 2 years</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stroketon&label=Profile%20views&color=0e75b6&style=flat" alt="stroketon" /> </p>
 
 - 🔭 I’m currently working on [elerium](https://elerium.cc)
 
-- 🌱 I’m currently learning **Nothing lol**
+- 🌱 I’m currently learning **how to back stab people harder**
 
 - 💬 Ask me about **elerium.cc**
 
